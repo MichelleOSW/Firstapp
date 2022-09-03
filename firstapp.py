@@ -1,6 +1,3 @@
-numpy==1.21.6
-pandas==1.3.5
-
 import streamlit as st
 
 import numpy as np
